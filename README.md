@@ -16,7 +16,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, sem muitas experiências. Busc
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=honeybee2409&show_icons=true&theme=default)
 
 ## ✨ Projetos em destaque
 
